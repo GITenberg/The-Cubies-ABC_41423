@@ -1,0 +1,36 @@
+_repo: The-Cubies-ABC_41423
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lyall, Earl Harvey
+    birthdate: 1877
+    deathdate: 1932
+    gutenberg_agent_id: '41175'
+    url: http://www.gutenberg.org/2009/agents/41175
+covers:
+- cover_type: archival
+  image_path: 41423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lyall, Mary Chase Mills
+    alias: Lyall, Mary Mills
+    birthdate: 1879
+    gutenberg_agent_id: '41174'
+    url: http://www.gutenberg.org/2009/agents/41174
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Modern -- 20th century -- Humor'
+- !lcsh 'Cubism -- Humor'
+- !lcsh 'Armory Show (1913 : New York, N.Y.)'
+- !lcsh 'Alphabet rhymes'
+- !lcc 'N'
+title: The Cubies' ABC
+url: http://www.gutenberg.org/ebooks/41423
